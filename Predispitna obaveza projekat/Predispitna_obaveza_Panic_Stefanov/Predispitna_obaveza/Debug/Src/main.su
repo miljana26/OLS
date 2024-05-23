@@ -1,0 +1,13 @@
+main.c:505:13:MX_GPIO_Init	64	static
+main.c:400:13:MX_I2C1_Init	16	static
+main.c:446:13:MX_TIM4_Init	72	static
+main.c:75:6:set_buzzer	4	static
+main.c:80:6:HAL_SYSTICK_Callback	0	static
+main.c:85:6:DrawNoteText	16	static
+main.c:94:6:DrawWhiteKey	24	static
+main.c:104:6:DrawBlackKey	24	static
+main.c:109:6:DrawPianoKeys	88	static
+main.c:153:6:process_touch	8	static
+main.c:343:6:SystemClock_Config	224	static
+main.c:275:5:main	72	static
+main.c:545:6:Error_Handler	0	static

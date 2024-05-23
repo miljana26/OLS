@@ -1,0 +1,6 @@
+LCDConf.c:84:6:GUI_TOUCH_X_ActivateX	0	static
+LCDConf.c:87:6:GUI_TOUCH_X_ActivateY	0	static
+LCDConf.c:90:6:GUI_TOUCH_X_MeasureX	8	static
+LCDConf.c:94:6:GUI_TOUCH_X_MeasureY	8	static
+LCDConf.c:110:6:LCD_X_Config	152	static
+LCDConf.c:163:5:LCD_X_DisplayDriver	8	static
